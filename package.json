@@ -1,0 +1,12 @@
+{
+  "name": "chat-summary-backend",
+  "version": "1.0.0",
+  "description": "聊海摘要后端API",
+  "main": "api/summarize.js",
+  "scripts": {
+    "start": "node api/summarize.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
